@@ -1,0 +1,14 @@
+@font-face {
+    font-family: Eslogan;
+    src: url(.././assets/fonts/allenisa/Allenisa.otf);
+}
+
+@font-face {
+    font-family: NormalText;
+    src: url(.././assets/fonts/mont/Mont-ExtraLightDEMO.otf);
+}
+
+@font-face {
+    font-family: BolderText;
+    src: url(.././assets/fonts/mont/Mont-HeavyDEMO.otf);
+}
